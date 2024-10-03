@@ -28,6 +28,7 @@
         <module>state</module>
         <module>visitor</module>
         <module>command</module>
+        <module>mediator</module>
     </modules>
 
     <properties>
