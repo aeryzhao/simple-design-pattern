@@ -31,6 +31,7 @@
         <module>mediator</module>
         <module>iterator</module>
         <module>memento</module>
+        <module>interpreter</module>
     </modules>
 
     <properties>
