@@ -21,6 +21,7 @@
         <module>composite</module>
         <module>flywight</module>
         <module>facade</module>
+        <module>strategy</module>
     </modules>
 
     <properties>
