@@ -19,6 +19,7 @@
         <module>bridge</module>
         <module>decorator</module>
         <module>composite</module>
+        <module>flywight</module>
     </modules>
 
     <properties>
