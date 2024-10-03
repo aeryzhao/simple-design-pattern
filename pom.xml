@@ -25,6 +25,7 @@
         <module>observer</module>
         <module>responsibilityofchain</module>
         <module>template</module>
+        <module>state</module>
     </modules>
 
     <properties>
