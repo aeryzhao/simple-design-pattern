@@ -24,6 +24,7 @@
         <module>strategy</module>
         <module>observer</module>
         <module>responsibilityofchain</module>
+        <module>template</module>
     </modules>
 
     <properties>
