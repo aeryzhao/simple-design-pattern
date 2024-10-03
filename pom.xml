@@ -22,6 +22,7 @@
         <module>flywight</module>
         <module>facade</module>
         <module>strategy</module>
+        <module>observer</module>
     </modules>
 
     <properties>
