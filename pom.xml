@@ -23,6 +23,7 @@
         <module>facade</module>
         <module>strategy</module>
         <module>observer</module>
+        <module>responsibilityofchain</module>
     </modules>
 
     <properties>
